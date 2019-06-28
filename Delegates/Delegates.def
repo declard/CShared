@@ -1,0 +1,13 @@
+LIBRARY Delegates
+EXPORTS
+	??BVoidCast@@QAEPAXXZ
+	??0VoidCast@@QAA@ZZ
+	??4VoidCast@@QAEAAV0@ABV0@@Z
+	
+	??4DelegateBase@@QAE@ABV0@@Z
+	??0DelegateBase@@QAE@VVoidCast@@0H@Z
+	??4DelegateBase@@QAEAAV0@ABV0@@Z
+	??BDelegateBase@@QAE_NXZ
+	??RDelegateBase@@QAAPAXZZ
+	
+	??REvent@@QAAXZZ
